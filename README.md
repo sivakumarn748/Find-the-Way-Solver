@@ -2,7 +2,7 @@
 
 Java application to solve 'Find the Way' puzzle.  
 
-It implements **DFS** to solve the puzzle.
+It implements **Depth First Search** to solve the puzzle.
 
 # Instructions :   
 
@@ -20,3 +20,5 @@ It implements **DFS** to solve the puzzle.
 2) Click **Search** to find the path.
 3) If possible, the path will be highlighted as **Yellow** and result will be **Homecoming**.
 4) Else, the result will be **No Way Home**.
+
+Starting and Reaching Point can be changed in *src/MAIN.java* file.
